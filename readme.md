@@ -1,7 +1,7 @@
 # caniuse.plugin.zsh
 
 A plugin for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) adding 
-[Can I Use...](http://caniuse.com) support to your OSX terminal.
+[Can I Use...](http://caniuse.com) support to your **__Linux__** terminal.
 
 ## Installation
 
@@ -14,7 +14,7 @@ git clone https://github.com/walesmd/caniuse.plugin.zsh ./caniuse
 
 ## Usage
 
-Use the `caniuse` command from your OSX terminal to quickly launch the website 
+Use the `caniuse` command from your **__Linux__** terminal to quickly launch the website 
 or search for specific terms.
 
 ```shell
